@@ -8,5 +8,5 @@ let chute = prompt('Escolha um número entre 0 e 69');
 if (chute == numeroSecreto) {
 alert('Isso ai! taporra (69)');
 } else {
-alert('vai besta :(69')
+alert('vai besta :(')
 }
