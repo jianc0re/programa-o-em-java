@@ -6,7 +6,7 @@ let chute = prompt('Escolha um número entre 0 e 69');
 // se chute for igual ao número secreto
 // se chute for igual ao número secreto
 if (chute == numeroSecreto) {
-alert('Isso ai! taporra (69)');
+alert('vai te q superar essa menina sorta (69)');
 } else {
 alert('vai besta :(')
 }
