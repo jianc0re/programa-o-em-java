@@ -1,7 +1,7 @@
-alert('Boas vindas ao jogo do número secreto');
+alert('oi bosta joga ai bosta');
 let numeroSecreto = 69;
 console.log('numeroSecreto')
-let chute = prompt('Escolha um número entre 0 e 69');
+let chute = prompt('Escolhe um número entre 0 e 69 seu bosta');
 
 // se chute for igual ao número secreto
 // se chute for igual ao número secreto
